@@ -1,0 +1,1 @@
+nuitka --standalone --windows-disable-console --enable-plugin=tk-inter --remove-output  --follow-imports --nofollow-import-to=tkinterDnD  .\cif_rebuilder.py
